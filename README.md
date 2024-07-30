@@ -1,1 +1,1 @@
-![build workflow](https://github.com/Otsoko/android-actions/actions/workflows/build.yml/badge.svg)
+![build workflow](https://github.com/Otsoko/android-actions/actions/workflows/build.yml/badge.svg) ![tests workflow](https://github.com/Otsoko/android-actions/actions/workflows/tests.yml/badge.svg) ![assemble debug workflow](https://github.com/Otsoko/android-actions/actions/workflows/assemble-debug.yml/badge.svg) ![assemble release workflow](https://github.com/Otsoko/android-actions/actions/workflows/assemble-release.yml/badge.svg)
